@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+
+html,body {
+    height:100%;
+    background:center no-repeat fixed url('../images/bg_1.jpg');
+    background-size: cover;
+    color:#444;
+    font-family: 'Questrial', sans-serif;
+}
+
+@media (min-width:768px) {
+    h1 {
+        font-size:68px;
+    }
+    
+}
+
+a {
+    color:#999;
+}
+
+a:hover {
+    color:#111;
+}
+
+.catchy-text-wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+#catchyText {
+    background-color: red;
+    padding: 20px;
+    background: rgba(32,63,86,0.8);
+    display: inline-block;
+
+}
+
+#emailNews {
+    font-size: 20px;
+
+}
+
+/* Round corners on button */
+.btn,.well,.panel {
+    border-radius:0;
+}
+
+.btn-blue {
+    background: rgba(32,63,86,1.0);
+    border-color:#5491bd;
+    border-radius: 10px;
+    color:#fff;
+}
+
+
+.btn-huge {
+    padding:17px 22px;
+    font-size:22px;
+}
+
+section {
+    padding-top:70px;  
+    padding-bottom:50px;
+    min-height:100%;
+    min-height:calc(100% - 0);
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+
+  
+#section1 {
+    background-color: rgba(0,0,0,0.6);
+    color:#fff;
+}
+  
+
+/* Form Config */
+
+input {
+    font-size: 16px;
+    min-height: 40px;
+    border-radius: 25px;
+    line-height: 20px;
+    padding: 15px 30px 16px;
+    border: 1px solid #b9b9af;
+    margin-bottom: 10px;
+    background-color: #fff;
+    opacity: 0.9;
+    -webkit-transition: background-color 0.2s;
+    transition: background-color 0.2s;
+}
+
+.subscribe-input {
+    float: center;
+    width: 23%;
+    height: 5px;
+    text-align: left;
+    margin-right: 2px;
+}
+
+.btn-placing {
+    padding-top: 20px;"
+}
+
+@media screen and (max-width: 767px) {
+    .subscribe-input {
+        width: 100%;
+    }
+}
+
