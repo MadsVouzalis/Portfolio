@@ -63,7 +63,7 @@
 							This is a wireframing report, that I am pretty proud of. It is a complete 79 pages report, that includes redesign and optimization of their website.
 							Together with the design it is gonna be implemented with Umbraco. Therefore the wireframing have been set up in 1/3 - 3/3 grid. I always keep my wireframes
 							in greyscale, so there is no discussions with a client regarding small details.<br>
-							<i>NB. Notice the repport is in danish</i>
+							<i>NB. Notice the report is in danish</i>
 						</span>
 					</span>
 					

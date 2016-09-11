@@ -310,6 +310,52 @@
 					</div>
 				</article>
 			</div>
+			
+			<div class="col-md-4 col-sm-6 col-xs-12">
+				<article class="block-thumbnail">
+					<a href="#" class="block-thumb">
+						<div class="date">
+							<span class="day">10</span>
+							<span class="month">sep</span>
+							<span class="month">2016</span>
+						</div>
+						<div class="block-image">
+							<div class="overlay"></div>
+							<a href="haircut.php"><img src="images/projects/smallPictures/haircut.png" alt="Haircut banner"></a>
+						</div>
+					</a>
+					<div class="block-data">
+						<h3>
+							<a href="haircut.php">Haircut banner</a>
+						</h3>
+						<a href="#" class="block-category">Graphic Design</a>
+						<a href="#" class="block-category">Photoshop</a>
+					</div>
+				</article>
+			</div>
+
+			<div class="col-md-4 col-sm-6 col-xs-12">
+				<article class="block-thumbnail">
+					<a href="#" class="block-thumb">
+						<div class="date">
+							<span class="day">10</span>
+							<span class="month">sep</span>
+							<span class="month">2016</span>
+						</div>
+						<div class="block-image">
+							<div class="overlay"></div>
+							<a href="city-night.php"><img src="images/projects/smallPictures/city-night.png" alt="Nightlife banner"></a>
+						</div>
+					</a>
+					<div class="block-data">
+						<h3>
+							<a href="city-night.php">Nightlife banner</a>
+						</h3>
+						<a href="#" class="block-category">Graphic Design</a>
+						<a href="#" class="block-category">Photoshop</a>
+					</div>
+				</article>
+			</div>
 		</div>
 	</div>
 </section>

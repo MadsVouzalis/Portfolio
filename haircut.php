@@ -12,8 +12,9 @@
 			<div class="col-md-12 text-center">
 				<div class="intro-content">
 					
-					<h1>Red Pepper <strong>on</strong> Wood</h1>
-					<h2>This is a subline of the project title</h2>
+					<h1>A haircut <strong>banner</strong>
+					</h1>
+					<h2>Project with the pen tool in Photoshop</h2>
 
 				</div>
 
@@ -31,9 +32,7 @@
 			<div class="col-md-8 col-sm-8 col-xs-12">
 				
 				<div class="portfolio-single-content">
-					<img src="images/thumbs/image1.jpg" alt="project image">
-					<img src="images/thumbs/image2.jpg" alt="project image">
-					<img src="images/thumbs/image4.jpg" alt="project image">
+					<img src="images\projects\bigPictures/haircut.png" alt="haircut banner">
 				</div>
 
 			</div>
@@ -44,30 +43,30 @@
 					
 					<span class="col-xs-6 name">
 						Project name
-						<span class="value">Red Pepper on Wood</span>
+						<span class="value">Haircut</span>
 					</span>
 					<span class="col-xs-6 name">
 						Client name
-						<span class="value">Wood Pepper on Red</span>
+						<span class="value">A simple banner</span>
 					</span>
 					<span class="col-xs-6 name">
 						Date
-						<span class="value">August 2014</span>
+						<span class="value">September 2016</span>
 					</span>
 					<span class="col-xs-6 name">
 						Skills
-						<span class="value">Web Design</span>
-						<span class="value">Photography</span>
+						<span class="value">Graphic Design</span>
+						<span class="value">Photoshop</span>
 					</span>
 					<span class="col-xs-12 name">
 						Description
 						<span class="value">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed haec quidem liberius ab eo dicuntur et saepius. Nec vero sum nescius esse utilitatem in historia, non modo voluptatem. Ita graviter et severe voluptatem secrevit a bono. Itaque ab his ordiamur. Vide, quaeso, rectumne sit. Apparet statim, quae sint officia, quae actiones. Id est enim, de quo quaerimus.
+							A banner practice made with the pen tool.
 						</span>
 					</span>
 					
 					<span class="col-xs-12">
-						<a href="Portfolio.php" class="btn btn-border">
+						<a href="portfolio.php" class="btn btn-border">
 							<i class="fa fa-rocket"></i>
 							Back to Portfolio
 						</a>
