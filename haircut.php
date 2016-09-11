@@ -47,7 +47,7 @@
 					</span>
 					<span class="col-xs-6 name">
 						Client name
-						<span class="value">A simple banner</span>
+						<span class="value">Myself</span>
 					</span>
 					<span class="col-xs-6 name">
 						Date
