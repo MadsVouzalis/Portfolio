@@ -310,6 +310,29 @@
 					</div>
 				</article>
 			</div>
+
+			<div class="col-md-4 col-sm-6 col-xs-12">
+				<article class="block-thumbnail">
+					<a href="#" class="block-thumb">
+						<div class="date">
+							<span class="day">9</span>
+							<span class="month">sep</span>
+							<span class="month">2016</span>
+						</div>
+						<div class="block-image">
+							<div class="overlay"></div>
+							<a href="office-man.php"><img src="images/projects/smallPictures/office-man.png" alt="Nightlife banner"></a>
+						</div>
+					</a>
+					<div class="block-data">
+						<h3>
+							<a href="office-man.php">Business banner</a>
+						</h3>
+						<a href="#" class="block-category">Graphic Design</a>
+						<a href="#" class="block-category">Photoshop</a>
+					</div>
+				</article>
+			</div>
 			
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				<article class="block-thumbnail">
@@ -356,6 +379,7 @@
 					</div>
 				</article>
 			</div>
+			
 		</div>
 	</div>
 </section>
