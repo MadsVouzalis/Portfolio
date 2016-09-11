@@ -36,7 +36,7 @@
 				<h3>Is it me <strong>you're</strong> looking for!?</h3>
 				<p>
 					My name is Mads Vouzalis. I am a 36 years old frontend developer from Denmark, with a big interest in user experience, optimization and marketing automation.<br><br><b>I can offer the following qualities:</b>
-					<ul>
+					<ul class="aboutme">
 						<li>A creative person who loves UI/UX and have a solid background in how to execute on these terminologies.</li>
 						<li>Competencies in terms of understanding users, design processes and choice of technology.</li>
 						<li>Sharp understanding of the challenges and opportunities of the technology in relation to your business.</li>
@@ -62,7 +62,7 @@
 				<h3>Aarhus univeristy</h3>
 				<h4>IT Product Design 2011 - 2013</h4><hr>
 				<h4>Courses I have followed</h4>					
-					<ul>
+					<ul  class="aboutme">
 						<li>Interaction Design</li>
 						<li>Visualization And Project Communication</li>
 						<li>Interactive Media</li>

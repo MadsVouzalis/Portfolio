@@ -164,6 +164,10 @@ ul.children {
 	margin-top: 5px;
 }
 
+.aboutme li {
+    list-style: disc;
+    margin-left: 20px;
+}
 
 }
 
