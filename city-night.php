@@ -12,8 +12,9 @@
 			<div class="col-md-12 text-center">
 				<div class="intro-content">
 					
-					<h1>B2B <strong>Marketing</strong> Seminar</h1>
-					<h2>Seminar event with the topic B2B</h2>
+					<h1>A night in the city <strong>banner</strong>
+					</h1>
+					<h2>Project with the pen tool in Photoshop</h2>
 
 				</div>
 
@@ -31,14 +32,7 @@
 			<div class="col-md-8 col-sm-8 col-xs-12">
 				
 				<div class="portfolio-single-content">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_1.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_2.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_3.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_4.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_5.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_6.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_7.jpg" alt="project image">
-					<img src="images/projects/bigPictures/landingpage-seminar/landingpage_8.jpg" alt="project image">
+					<img src="images\projects\bigPictures/city-night.png" alt="Nightlife banner">
 				</div>
 
 			</div>
@@ -49,25 +43,25 @@
 					
 					<span class="col-xs-6 name">
 						Project name
-						<span class="value">B2B Seminar</span>
+						<span class="value">A night in the city</span>
 					</span>
 					<span class="col-xs-6 name">
 						Client name
-						<span class="value">Anonymous...</span>
+						<span class="value">A simple banner</span>
 					</span>
 					<span class="col-xs-6 name">
 						Date
-						<span class="value">August 2016</span>
+						<span class="value">September 2016</span>
 					</span>
 					<span class="col-xs-6 name">
 						Skills
-						<span class="value">Web Design</span>
-						<span class="value">Landingpages</span>
+						<span class="value">Graphic Design</span>
+						<span class="value">Photoshop</span>
 					</span>
 					<span class="col-xs-12 name">
 						Description
 						<span class="value">
-							The site is live at the moment (September 2016). Therefore I only provide the screenshot, because everything on the page is tracked with AutopilotHQ. If you wish to see the page, please contact me and I will send the link.
+							A banner practice made with the pen tool.
 						</span>
 					</span>
 					
